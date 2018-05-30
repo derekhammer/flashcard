@@ -1,0 +1,7 @@
+.show_div {
+  visibility: hidden;
+}
+
+.border {
+  border: solid black 2px;
+}
